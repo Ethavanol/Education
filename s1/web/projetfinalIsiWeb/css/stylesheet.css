@@ -1,0 +1,17 @@
+body{
+   background-color: rgb(113, 167, 177); 
+}
+
+
+.div-principale{
+    background-color: rgb(144, 207, 226);
+    border-radius: 14px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bouton-conn{
+    background-color: grey;
+    padding : 10 px;
+    border-radius: 14px;
+}
