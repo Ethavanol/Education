@@ -1,0 +1,82 @@
+﻿
+@model  WebmangaAspCore.Models.Metier.Manga
+
+@{
+    ViewBag.Title = "Modifier";
+    Layout = "~/Views/Shared/_LayoutManga.cshtml";
+}
+<h2>Modifier un Manga</h2>
+@if (Model != null)
+{
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+            <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Id_manga, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Id_manga, new { htmlAttributes = new { @class = "form-control", @disabled = "" } })
+                        @Html.ValidationMessageFor(model => model.Id_manga, "", new { @class = "text-danger" })
+                        <input name="Id_manga" type="HIDDEN" value=@(@Model.Id_manga) id="Id_manga" />
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">Id dessinateur</label>
+                    <div class="col-md-10">
+                        <input name="Id_dessinateur" type="text" class="form-control" value=@(@Model.Id_dessinateur) id="Id_dessinateur" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">Id Scénariste</label>
+                    <div class="col-md-10">
+                        <input name="Id_scenariste" type="text" class="form-control" value=@(@Model.Id_scenariste) id="Id_scenariste" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">Prix du manga</label>
+                    <div class="col-md-10">
+                        <input name="Prix" type="text" class="form-control" value=@(@Model.Prix) id="Prix" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">titre du manga</label>
+                    <div class="col-md-10">
+                        <input name="Titre" type="text" class="form-control" value=@(@Model.Titre) id="Titre" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">Couverture</label>
+                    <div class="col-md-10">
+                        <input name="Couverture" type="text" class="form-control" value=@(@Model.Couverture) id="Couverture" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">Date parution</label>
+                    <div class="col-md-10">
+                        <input name="DateParution" type="text" class="form-control" value=@(@Model.DateParution) id="DateParution" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Genre du manga</label>
+                    <div class="col-md-10">
+                        <input name="Id_genre" type="text" class="form-control" value=@(@Model.Id_genre) id="ID Genre" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Enregistrer" class="btn btn-primary" />
+
+                    </div>
+                </div>
+            </div>
+
+    }
+}

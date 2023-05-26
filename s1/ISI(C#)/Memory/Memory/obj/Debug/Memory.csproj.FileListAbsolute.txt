@@ -1,0 +1,13 @@
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\bin\Debug\dllLoto.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\Memory\Memory\obj\Debug\Memory.Memory.resources

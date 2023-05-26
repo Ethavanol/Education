@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+           
+            @Html.ActionLink("Web Manga", "About", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fichier<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">Application</li>
+                        @if(Context.Session.GetInt32("id") == null)
+                        {
+                            <li><a class="nav-link text-dark" asp-area="Connexion" asp-controller="Connexion" asp-action="Index">Connexion</a></li>
+                        }
+                        @if (Context.Session.GetInt32("id") > 0)
+                        {
+                            <li><a class="nav-link text-dark" asp-area="Déonnexion" asp-controller="Connexion" asp-action="Logout">Déconnexion</a></li>
+                        }
+                    </ul>
+                </li>
+
+                @if(Context.Session.GetInt32("id") > 0)
+                {
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Interroger<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header">Fiches</li>
+                            <li role="separator" class="divider"></li>
+                            <li><a class="nav-link text-dark" asp-area="Liste des Mangas" asp-controller="Manga" asp-action="Index">Liste des Mangas</a></li>
+                            <li><a class="nav-link text-dark" asp-area="Manga sur un critère" asp-controller="Manga" asp-action="Index">Recherche Manga</a></li>
+                            <li><a class="nav-link text-dark" asp-area="Manga sur un titre" asp-controller="Manga" asp-action="TitreManga">Titre des Mangas</a></li>
+
+
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gérer<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header">Gestion</li>
+                            <li role="separator" class="divider"></li>
+                            <li><a class="nav-link text-dark" asp-area="Ajouter Manga" asp-controller="Client" asp-action="Ajout">AjouterManga</a></li>
+                            <li><a class="nav-link text-dark" asp-area="Modifier Manga" asp-controller="Client" asp-action="Modifier">ModifierManga</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li class="dropdown-header">Produits</li>
+                            <li role="separator" class="divider"></li>
+                            <li><a class="nav-link text-dark" asp-area="Augmenter Prix" asp-controller="Produit" asp-action="Augmenter">AugmenterPrix</a></li>
+                        </ul>
+                    </li>
+                }
+
+            </ul>
+        </div>
+    </div>
+</div>

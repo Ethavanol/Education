@@ -1,0 +1,39 @@
+﻿
+
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_LayoutManga.cshtml";
+}
+
+<div id="manga-form row">
+  
+        <form    asp-controller="Connexion" asp-action="Controle" class="login-form" method="post">
+            <div class="form-horizontal">
+                <h1>Connexion</h1>
+                <p class="text-info">Seul l'identifiant est requis pour la connexion. Celui-ci correspond à l'ID d'un utilisateur</p>
+                <hr />
+                <div class="form-group">
+                    <label class="control-label col-md-2" for="login">Identifiant</label>
+                    <div class="col-md-10">
+                        <input type="text" id="login" name="login" class="form-control text-box single-line" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2" for="pwd">Mot de passe</label>
+                    <div class="col-md-10">
+                        <input type="password" id="pwd" name="pwd" class="form-control text-box single-line" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-2">
+                        <input type="submit" value="Se Connecter" class="btn btn-default btn-success" />
+                    </div>
+                    <div class="col-md-2 col-sm-2">
+                        @Html.ActionLink("Retourner", "", "", null, new { @class = "btn btn-default btn-primary" })
+                    </div>
+
+                </div>
+            </div>
+
+        </form>
+</div>

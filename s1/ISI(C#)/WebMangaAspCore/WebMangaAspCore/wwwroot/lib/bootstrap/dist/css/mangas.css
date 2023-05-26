@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 sept. 2015, 09:38:30
+    Author     : alain
+*/
+
+.body{
+    padding-top: 80px;
+}
+.titre{
+    padding-bottom: 20px;
+}
+.imgReduite {
+    padding-left: 10px;
+    height: 50px;
+    width: auto;
+}
+.imgReduite:hover {
+    height: 100%;
+    width: auto;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-shadow:  2px 2px 4px #000000;
+    
+    
+}
+.fd{
+    background-image: url("../../images/fdManga.jpg");
+}
+.img{
+    width: 30%;
+}
+.imgMod{
+    border-radius: 3%;
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+    width: 20%;
+}
+.imgDetail{
+    height:40%;
+    width: 60%;
+    border-radius: 3%;
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+} 
+.lab{
+    margin-left: 23%;
+}
+.synops{
+    font-size: 150%;
+    margin-left: 45%;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 40%;
+      margin: auto;
+  }
+  .parcour{
+      margin-left: 32%;
+  }
+

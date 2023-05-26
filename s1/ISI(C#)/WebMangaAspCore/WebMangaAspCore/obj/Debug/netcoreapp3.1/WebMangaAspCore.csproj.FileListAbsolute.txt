@@ -1,0 +1,289 @@
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\web.config
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.exe
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.deps.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.runtimeconfig.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.runtimeconfig.dev.json
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.pdb
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.Views.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.Views.pdb
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\WebMangaAspCore.StaticWebAssets.Manifest.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\WebMangaAspCore.StaticWebAssets.xml
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfoInputs.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfo.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.TagHelpers.input.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.TagHelpers.output.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorCoreGenerate.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorTargetAssemblyInfo.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorTargetAssemblyInfo.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.Views.pdb
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.pdb
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.CopyComplete
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutManga.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Connexion\Index.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Manga\Index.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Manga\Modifier.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navigation.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\app.config
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.dll.config
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.MvcApplicationPartsAssemblyInfo.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csprojAssemblyReference.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.CoreCompileInputs.cache
+D:\epul\isi cours 1ere anne\2020\Chapitre 4\tp\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.genruntimeconfig.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\app.config
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.StaticWebAssets.xml
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.exe
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.dll.config
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.deps.json
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.runtimeconfig.json
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.runtimeconfig.dev.json
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.Views.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\WebMangaAspCore.Views.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfo.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\WebMangaAspCore.StaticWebAssets.Manifest.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\WebMangaAspCore.StaticWebAssets.Pack.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebMangaAspCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebMangaAspCore.props
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebMangaAspCore.props
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebMangaAspCore.props
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.TagHelpers.input.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.TagHelpers.output.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorCoreGenerate.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Connexion\Index.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Manga\Index.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Manga\Modifier.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutManga.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navigation.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorTargetAssemblyInfo.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorTargetAssemblyInfo.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.Views.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.CopyComplete
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.pdb
+C:\Users\Ethan\Documents\Univ\3A\ISI\MYSQL\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.genruntimeconfig.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.AssemblyInfo.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cache
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.RazorAssemblyInfo.cs
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.dll
+C:\Users\Ethan\Documents\Univ\3A\ISI\Mangas\WebMangaAspCore\WebMangaAspCore\obj\Debug\netcoreapp3.1\WebMangaAspCore.pdb

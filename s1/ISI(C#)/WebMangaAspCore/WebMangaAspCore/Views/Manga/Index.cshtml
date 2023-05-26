@@ -1,0 +1,66 @@
+﻿
+@model System.Data.DataTable
+@using System.Data;
+@{
+    ViewBag.Title = "Liste des Mangas";
+    Layout = "~/Views/Shared/_LayoutManga.cshtml";
+}
+@if (Model != null)
+{ <div class="container">
+        <div class="col-md-8 col-sm-8">
+            <div class="blanc">
+                <h1>Liste des Mangas TEST </h1>
+            </div>
+            
+            <table class="table table-bordered table-striped table-responsive">
+                <thead>
+                    <tr>
+                        <th> ID Manga  YYYY</th>
+                        <th> Nom Genre   TTTT</th>
+                        <th> Nom Dessinateur</th>
+                        <th>Nom Scénariste</th>
+                        <th>Date Parution </th>
+                        <th>Prix   HHHH</th>
+                        <th>Couverture</th>
+                        <th style="width:80px">Modification </th>
+                        <th style="width:80px">Supprimer</th>
+                    </tr>
+                </thead>
+               @foreach (DataRow dataRow in Model.Rows)
+               {
+                <tr>
+                    @foreach (var item in dataRow.ItemArray)
+                    {
+                        <td>
+                                @if(dataRow.ItemArray[dataRow.ItemArray.Length - 1].ToString() == item.ToString())
+                                {
+                                    <img src="~/images/@item.ToString()" width="150" />
+                                }
+                                else
+                                {
+                                    @item.ToString()
+                                }
+
+                        </td>
+                    }
+                    <td style="text-align:center;">
+                        <span>
+                            @Html.ActionLink("  ", "Modifier", "Manga", new { id = dataRow[0] }, new { @class = "btn btn-default btn-primary glyphicon glyphicon glyphicon-pencil" })
+                        </span>
+                    </td>
+                    <td style="text-align:center;">
+                        <span>
+                            @Html.ActionLink("  ", "Supprimer", "Manga", new { id = dataRow[0] }, new { @class = "btn btn-default btn-primary glyphicon glyphicon glyphicon-remove" })
+                        </span>
+                    </td>
+                </tr>
+               }
+            </table>
+            <div class="form-group">
+                <div class="col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3">
+                    @Html.ActionLink("Retourner à l'accueil", "Index", "Home", new { @class = "btn btn-default btn-primary" })
+                </div>
+            </div>
+        </div>
+    </div>
+}
