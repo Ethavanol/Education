@@ -1,0 +1,9 @@
+<map id="src/hud.h" name="src/hud.h">
+<area shape="rect" id="node1" title=" " alt="" coords="241,5,322,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="291,229,387,256"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,149,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="317,155,382,181"/>
+<area shape="rect" id="node5" href="$coin_8h.html" title=" " alt="" coords="251,80,312,107"/>
+<area shape="rect" id="node7" href="$heart_8h.html" title=" " alt="" coords="158,80,226,107"/>
+<area shape="rect" id="node6" href="$timer_8h.html" title=" " alt="" coords="225,155,293,181"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="game" name="game">
+<area shape="rect" id="node1" title="classe gerant les instances du jeu tels que les boucles d&#39;evenements, les personnages,..." alt="" coords="377,288,436,315"/>
+<area shape="rect" id="node2" href="$classheart.html" title="classe du heart" alt="" coords="5,95,61,121"/>
+<area shape="rect" id="node5" href="$classhud.html" title="classe contenant les differents éléments de la carte" alt="" coords="149,199,195,225"/>
+<area shape="rect" id="node6" href="$classmap.html" title="classe contenant les differents éléments de la carte" alt="" coords="308,199,359,225"/>
+<area shape="rect" id="node3" href="$classcoin.html" title="classe du coin" alt="" coords="285,95,334,121"/>
+<area shape="rect" id="node4" href="$classbutton.html" title="classe qui définit les boutons sur lesquels nous allons cliquer." alt="" coords="220,199,284,225"/>
+<area shape="rect" id="node7" href="$classcanon.html" title="classe definissant le Canon" alt="" coords="464,199,525,225"/>
+<area shape="rect" id="node8" href="$classweapon.html" title="classe definissant l&#39;arme avec laquelle le Canon tire" alt="" coords="445,95,518,121"/>
+<area shape="rect" id="node9" href="$classtimer.html" title="classe gerant quelques actions simples en rapport avec le temps" alt="" coords="490,5,547,32"/>
+<area shape="rect" id="node10" href="$classmenu.html" title="classe contenant les differents éléments du menu" alt="" coords="600,199,659,225"/>
+<area shape="rect" id="node11" href="$classrunner.html" title="classe du Runner (personnage qui court)" alt="" coords="683,199,747,225"/>
+</map>

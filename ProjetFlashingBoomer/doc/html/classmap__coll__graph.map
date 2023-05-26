@@ -1,0 +1,5 @@
+<map id="map" name="map">
+<area shape="rect" id="node1" title="classe contenant les differents éléments de la carte" alt="" coords="47,109,97,136"/>
+<area shape="rect" id="node2" href="$classheart.html" title="classe du heart" alt="" coords="5,5,61,32"/>
+<area shape="rect" id="node3" href="$classcoin.html" title="classe du coin" alt="" coords="86,5,135,32"/>
+</map>

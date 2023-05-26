@@ -1,0 +1,5 @@
+<map id="canon" name="canon">
+<area shape="rect" id="node1" title="classe definissant le Canon" alt="" coords="11,184,73,211"/>
+<area shape="rect" id="node2" href="$classweapon.html" title="classe definissant l&#39;arme avec laquelle le Canon tire" alt="" coords="5,95,79,121"/>
+<area shape="rect" id="node3" href="$classtimer.html" title="classe gerant quelques actions simples en rapport avec le temps" alt="" coords="13,5,71,32"/>
+</map>
