@@ -1,2 +1,5 @@
+Program on binary tree sorting.
+The goal was to see how to manage sorting, searching and deleting nodes of a binary tree that contains 2^25 values.
+
 TP portant sur le tri d'arbres binaires.
 Le but étrait de voir comment gérer le tri, la recherche et la suppresion de noeuds d'un arbre pour 2^25 valeurs totales.
